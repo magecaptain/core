@@ -1,0 +1,14 @@
+.admin__menu li#menu-magecaptain-core-menu >a:before {
+    content: url('../images/MageCaptain_logo1-icon.png');
+    display: block;
+    font-size: 2.2rem;
+    margin-bottom: .3rem;
+}
+
+.magecaptain_tab .admin__page-nav-title strong:before {
+	content: '';
+    background-image: url(../images/MageCaptain_logo1-icon.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 25px;
+}

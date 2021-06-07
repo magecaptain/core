@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="MageCaptain_Core::menu" title="Magecaptain"  module="MageCaptain_Core"
+        sortOrder="10" resource="MageCaptain_Core::menu" />
+    </menu>
+</config>
